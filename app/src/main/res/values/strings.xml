@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="scanDevice">Scan devices</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="send">Send</string>
+</resources>
